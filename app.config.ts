@@ -1,6 +1,7 @@
 export default defineAppConfig({
   ui: {
-    primary: "amber",
+    primary: "emerald",
+    gray: "slate",
     skeleton: {
       background: "bg-gray-200",
     },
